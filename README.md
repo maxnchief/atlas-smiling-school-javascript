@@ -80,4 +80,4 @@ Maxwell Logan: [maxnchief](https://github.com/maxnchief)
 
 # Live site link
 
-[https://maxnchief.github.io/atlas-smiling-school-javascript/]
+[Smiling School](https://maxnchief.github.io/atlas-smiling-school-javascript)
